@@ -21,7 +21,7 @@ body{
 }
 .time{
     /* height: 200px; */
-    width: 300px;
+    width: 350px;
     /* background-color: aqua; */
     display: flex;
     justify-content: center;
@@ -70,10 +70,10 @@ color: green;
     /* gap: 25px; */
 }
 .score{
-    max-width: 200px;
+    max-width: 175px;
     border: 2px solid green;
     color: rgb(193, 190, 190);
-    font-size: 40px;
+    font-size: 35px;
     font-family: 'Orbitron', sans-serif;
 
 }
